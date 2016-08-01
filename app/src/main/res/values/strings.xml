@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestNav</string>
+    <string name="menu_prompt">Choose Problem Category</string>
+
+    <string-array name="problem_description">
+        <item>Account Management</item>
+        <item>Move/Add/Change</item>
+        <item>Software Install</item>
+        <item>Phone/Voicemail</item>
+        <item>Classroom Tech</item>
+        <item>Desktop/Laptop</item>
+        <item>Banner Functionality</item>
+        <item>Printer</item>
+        <item>Network Connectivity</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_service_request">ServiceRequest</string>
+</resources>
